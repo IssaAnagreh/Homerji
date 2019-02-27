@@ -1,5 +1,6 @@
 # Homerji
-Workers are almost far away from technology, while clients always trying to search for the easiest way to get their services, so we will connect them by this app, which it will be easy for customers and benificial for workers
+Workers are almost far away from technology, while clients always trying to search for the easiest way to get their services, so we will connect them by this app, which it will be easy for customers and benificial for workers.
+Please visit us: https://homerg.herokuapp.com/
 
 ## Team
 
